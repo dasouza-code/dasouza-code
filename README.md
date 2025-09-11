@@ -3,7 +3,7 @@
  📈➡️💻 Transitando profissionalmente para a área tech. 
 
 * 🖥️ Cursando Sistemas de Informação - Centro Universitário Uniúnica
-* 🌱 Atualmente me desenvolvendo em SQL
+* 🌱 Atualmente me desenvolvendo em Java e SQL
 * 🌍 Minas Gerais
 
 ---
@@ -19,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
   <img src="https://www.svgrepo.com/show/499816/database.svg" width="40" height="40" alt="Database Icon 1" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 </div>
 
 
